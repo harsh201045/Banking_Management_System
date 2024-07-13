@@ -18,4 +18,4 @@ This is a console-based Banking Management System project developed in the C pro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/banking-management-system.git
+   git clone https://github.com/harsh201045/banking-management-system.git
